@@ -1,0 +1,2 @@
+# Rekognition_aws
+Esse projeto foi criado seguindo o curso da Alura -Amazon Lambda: Primeiros passos à execução de código sem servidor. Foi criado usando o boto3 um código python, onde configuramos que certas imagens dentro do buket seria a base para o reconhecimento facil das imagens que fossem adicionadas temporariamente. O sistema foi criado na aws, utilizando lambda, s3, Amazon EventBridge entre outras.
